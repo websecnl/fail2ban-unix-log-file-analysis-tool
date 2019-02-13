@@ -26,5 +26,5 @@ for (i in 1:nrow(df1)) {
 
 print(paste(x,"possible attacks are found"))
 print(paste(y,"confirmed attacks are found"))
-print(paste(z,"IP were banned the past 4 days"))
+print(paste(z,"IPs were banned in the past 4 days"))
 
