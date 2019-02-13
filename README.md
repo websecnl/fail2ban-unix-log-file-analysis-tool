@@ -5,4 +5,4 @@ Just make sure to upload the /var/log/secure file and /var/log/fail2ban.log file
 
 By Joel Aviad Ossi
 
-Special Thanks to `Polina Voronina` github.com/puma1295 :)
+Special Thanks to `Polina Voronina` github.com/puma1295
